@@ -1,0 +1,251 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",FoxSport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSportHD4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",TrueSport7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",T Sport5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",BT Sport1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yxjocrq4" group-title="THAILAND",BT Sport2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="SPORT USE",champion1
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_1328.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="SPORT USE",champion1+
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="SE SPORT",Dubai HorseRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SE SPORT",UFC1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="SE SPORT",UFC2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="SE SPORT",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SE SPORT",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="SE SPORT",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 group-title="SE SPORT", FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 group-title="SE SPORT",@ytson1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="SE SPORT",@YTSON2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="SE SPORT",Adventure sport
+https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="SE SPORT", DDSPORT
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SE SPORT", Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="SE SPORT", ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="SE SPORT", FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="SE SPORT", Swiss Sports
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:-1 group-title="SE SPORT",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby
+#EXTINF:-1 group-title="SE SPORT",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 1
+https://www.livedooMOVIES.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 2
+https://www.livedooMOVIES.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",KIX MOVIE
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",WARNER TV
+http://203.154.243.89:1205
+#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&Prive
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MOVIES",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MOVIES",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1   tvg-logo="" group-title="MOVIES",AXN
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/fox_thai.jpg" group-title="MOVIES",FOX Thai HD
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybbvjodj" group-title="MOVIES3",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybbvjodj" group-title="MOVIES3",FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="SE STREAM",Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="SE STREAM",WAU MOVIES
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="SE STREAM",Dubai Movie
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="SE STREAM",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="SE STREAM",BOLLYWOOD INDI
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTINF:-1 group-title="SE STREAM",SERIES ZONE
+https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
+#EXTINF:-1 group-title="SE STREAM",SHORT FILMTV
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
+#EXTINF:-1 group-title="SE STREAM",EEG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1 group-title="SE STREAM",REDBULL TV
+http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SE STREAM",NBC
+http://161.0.157.51:80/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="SE STREAM",DXTV
+http://bcsecurelivehls-i.akamaihd.net:80/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",Discovery Asia
+http://103.47.132.165/PLTV/88888888/224/3221227161/2.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Knowledge",Animal planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_1000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Knowledge",ET live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Knowledge",People Tv
+https://peopletv-oo.akamaized.net/playlist480p.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Knowledge",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="Knowledge",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3
+#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Knowledge",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TDM-TeledifusÃ£o_de_Macau.png",TDM - TeledifusÃ£o de Macau (PT)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC" tvg-logo="https://caixapreta.pt/logos/SIC.png",SIC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="SIC NotÃ­cias" tvg-logo="https://caixapreta.pt/logos/SIC-NotÃ­cias.png",SIC NotÃ­cias
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="Porto Canal" tvg-logo="https://caixapreta.pt/logos/Porto-Canal.png",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://m3upt.com/logos/TVM.png",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Unsorted",CANAL WOW  25
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title="CANAL ABERTO", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1109850641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="Canais | Filmes e Séries",GOSPEL MOVIES TELEVISION 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais | Filmes e Séries",CANAL 29 (Séries Antigas)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:-1 tvg-id="Spyke" tvg-logo="https://i.imgur.com/jx1VeJ7.jpg" group-title="Canais | Filmes e Séries",SPYKE (Itália)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
